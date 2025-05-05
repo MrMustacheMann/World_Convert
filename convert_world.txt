@@ -28,9 +28,3 @@ edu_output = r"C:\Users\username\AppData\Local\output"
 convert_to_edu(bedrock_world, edu_output)
 
 
-#save as this doc as and rename file extention as .py instead of .txt (note where it has been saved)
-#open Terminal (cmd prompt or PWR shell)
-# type cd C:\path to file\ Python convert_world.py
-#it will output a folder
-#open minecraft edu, click import, find folder location, locate level.dat
-
