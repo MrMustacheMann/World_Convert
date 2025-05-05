@@ -22,8 +22,11 @@ def convert_to_edu(bedrock_world_path, edu_output_path):
     print("📂 You can now import this folder into Minecraft Education Edition.")
 
 # Replace with your actual paths
-bedrock_world = r"C:\Users\username\AppData\Local\com.mojang\minecraftWorlds\"
-edu_output = r"C:\Users\username\AppData\Local\output"
+#pick folder (world) that you want to convert
+bedrock_world = r"C:\Users\<YourName>\AppData\Local\Packages\
+Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\minecraftWorlds\"
+edu_output = r"C:\Users\<YourName>\AppData\Local\Packages\
+Microsoft.MinecraftEducationEdition_8wekyb3d8bbwe\LocalState\games\com.mojang\minecraftWorlds\"
 
 convert_to_edu(bedrock_world, edu_output)
 #when finished save as and rename .txt to .py
