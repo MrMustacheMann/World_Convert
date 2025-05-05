@@ -13,12 +13,10 @@ open minecraft edu, click import, find folder location, locate level.dat and imp
 
 bedrock world file location: 
 
-
 C:\Users\<YourName>\AppData\Local\Packages\
 Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\minecraftWorlds\
 
 MCEE world file location:
-
 
 C:\Users\<YourName>\AppData\Local\Packages\
 Microsoft.MinecraftEducationEdition_8wekyb3d8bbwe\LocalState\games\com.mojang\minecraftWorlds\
