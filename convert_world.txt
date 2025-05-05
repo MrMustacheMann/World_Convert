@@ -26,5 +26,5 @@ bedrock_world = r"C:\Users\username\AppData\Local\com.mojang\minecraftWorlds\"
 edu_output = r"C:\Users\username\AppData\Local\output"
 
 convert_to_edu(bedrock_world, edu_output)
-
+#when finished save as and rename .txt to .py
 
